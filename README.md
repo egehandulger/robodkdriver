@@ -12,7 +12,7 @@
 
 3. Extend `RobotSerial` class 
     ```
-    class MyRobot(RobotSerial):
+    class MyOneAxisRobot(RobotSerial):
         def run_command(self, cmd: str, args: tuple):
             RoboDK.update_status('working')
     
