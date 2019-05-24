@@ -9,7 +9,7 @@ setup(
     author='Egehan Dulger',
     author_email='egehandulger94@gmail.com',
     url='https://github.com/egehandulger/robodkdriver',
-    download_url='',  # TODO: Add url
+    download_url='https://github.com/egehandulger/robodkdriver/archive/v0.1.tar.gz',
     keywords=['RoboDK', 'robotics', 'driver', 'online programming', 'simulation'],
     install_requires=[
         'pyserial',
