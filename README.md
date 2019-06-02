@@ -1,16 +1,21 @@
 # RoboDK Robot Driver Boilerplate
 
 ## How to use?
+1. Install library
+    ```
+    pip install robodkdriver
+    
+    ```
 
-1. Create a python file in RoboDK driver directory
+2. Create a python file in RoboDK driver directory
 
-2. Import module
+3. Import module
     ```
     from robodkdriver import RobotSerial
     
     ```
 
-3. Extend `RobotSerial` class 
+4. Extend `RobotSerial` class 
     ```
     class MyOneAxisRobot(RobotSerial):
         def run_command(self, cmd: str, args: tuple):
@@ -61,11 +66,11 @@
     - **not_connected**: when robot is not connected
     - **connection_problems**: when there are connection problems
     
-4. Start driver
+5. Start driver
     ```
     if __name__ == '__main__':
         RoboDK(MyOneAxisRobot()).run_driver()
     
     ```
 
-5. Change configuration on RoboDK robot connection
+6. Change configuration on RoboDK robot connection
