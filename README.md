@@ -74,3 +74,8 @@
     ```
 
 6. Change configuration on RoboDK robot connection
+
+## TODO
+1. RobotSocket Class
+2. Better getting started
+3. More info on how RoboDK driver communicates
