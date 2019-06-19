@@ -11,7 +11,7 @@
 
 3. Import module
     ```
-    from robodkdriver import RobotSerial
+    from robodkdriver import RoboDK, RobotSerial
     
     ```
 
