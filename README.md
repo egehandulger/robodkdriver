@@ -1,5 +1,11 @@
 # RoboDK Robot Driver Boilerplate
 
+## What is RoboDK Robot Driver?
+RoboDK's explanation on robot drivers can be found over [here](https://robodk.com/doc/en/Robot-Drivers.html).
+Making your own RoboDK robot driver lets you control your own robot mechanisms.
+
+![custom robodk robot mechanism](https://cdn-images-1.medium.com/max/1600/1*AmFXGdJoAXNgFube5ypHYw.gif)
+
 ## How to use?
 1. Install library
     ```
