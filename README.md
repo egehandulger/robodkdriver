@@ -1,5 +1,7 @@
 # RoboDK Robot Driver Boilerplate
 
+You can read the story behind the project [here](https://medium.com/@egehandulger/how-i-gave-purpose-to-arduino-tinkerkit-braccio-robot-9b523671ab4c).
+
 ## What is RoboDK Robot Driver?
 RoboDK's explanation on robot drivers can be found over [here](https://robodk.com/doc/en/Robot-Drivers.html).
 Making your own RoboDK robot driver lets you control your own robot mechanisms.
